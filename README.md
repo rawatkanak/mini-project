@@ -4,7 +4,7 @@
 ##  Overview
 A mini-project integrating **Python**, **ADBMS (SQLite)**, and **DAA (FCFS Scheduling Algorithm)**.
 
-This system helps schedule patients to doctors based on the **First-Come-First-Serve (FCFS)** principle.
+This system helps  schedule patients to doctors based on the **First-Come-First-Serve (FCFS)** principle.
 It includes doctor & patient management, automatic appointment number generation, and real-time schedule viewing.
 
 ---
